@@ -72,3 +72,4 @@ A comparison is also made with published MatBench leaderboard entries for `matbe
 1. Clone the repo:
    ```bash
    git clone https://github.com/Suleyman040/Perovskite-ML-Classifier.git
+2. Run as .ipynb
