@@ -1,5 +1,5 @@
 
-#Predicting Dielectric Properties with Machine Learning
+# Predicting Dielectric Properties with Machine Learning
 
 This project builds and evaluates machine learning models to predict the dielectric response of crystalline materials using the [`matbench_dielectric`](https://matbench.materialsproject.org) dataset from MatBench.
 
