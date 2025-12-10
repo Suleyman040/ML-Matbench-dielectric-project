@@ -68,4 +68,4 @@ A comparison is also made with published MatBench leaderboard entries for `matbe
 ---
 
 ## 🚀 How to run
-
+git clone [https://github.com/Suleyman040/Perovskite-ML-Classifier.git](https://github.com/Suleyman040/ML-Matbench-dielectric-project.git)
